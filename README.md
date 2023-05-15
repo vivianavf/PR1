@@ -1,5 +1,6 @@
 # Proyectos
-## Teleport API (finalizado)
+## Teleport API <a href="https://"><img src="https://img.shields.io/static/v1?label=Completado&message=100%25&color=2ea44f" alt="Completado - 100%"></a>
+https://proyecto02-viviana.web.app/
 
 ## Google UX Design (En proceso)
 
@@ -13,3 +14,4 @@
 ## Información de contacto
 Correo: vivvfalcon@espol.edu.ec
 Telegram: x
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
