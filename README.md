@@ -12,6 +12,4 @@ https://proyecto02-viviana.web.app/
 ## Información de contacto
 Correo: vivvfalcon@espol.edu.ec
 
-Telegram: x
-
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
